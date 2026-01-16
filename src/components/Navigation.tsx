@@ -45,7 +45,7 @@ export function Navigation() {
             transition={{ delay: 0.2 }}
             className="text-xl font-semibold text-white"
           >
-            Niroobana R.
+            Niroobana.
           </motion.div>
 
           {/* Desktop Navigation */}
